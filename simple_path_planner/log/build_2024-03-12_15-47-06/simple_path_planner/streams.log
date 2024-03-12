@@ -1,0 +1,26 @@
+[1.011s] Invoking command in '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner': PYTHONPATH=/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/prefix_override:/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/simple_path_planner build --build-base /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build install --record /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/install.log --single-version-externally-managed
+[1.338s] running egg_info
+[1.339s] writing build/simple_path_planner/simple_path_planner.egg-info/PKG-INFO
+[1.339s] writing dependency_links to build/simple_path_planner/simple_path_planner.egg-info/dependency_links.txt
+[1.340s] writing entry points to build/simple_path_planner/simple_path_planner.egg-info/entry_points.txt
+[1.340s] writing requirements to build/simple_path_planner/simple_path_planner.egg-info/requires.txt
+[1.340s] writing top-level names to build/simple_path_planner/simple_path_planner.egg-info/top_level.txt
+[1.342s] reading manifest file 'build/simple_path_planner/simple_path_planner.egg-info/SOURCES.txt'
+[1.343s] writing manifest file 'build/simple_path_planner/simple_path_planner.egg-info/SOURCES.txt'
+[1.344s] running build
+[1.344s] running build_py
+[1.344s] copying simple_path_planner/simple_path_planner.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner
+[1.345s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.345s]   warnings.warn(
+[1.345s] running install
+[1.345s] running install_lib
+[1.345s] copying /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner/simple_path_planner.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner
+[1.346s] byte-compiling /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner/simple_path_planner.py to simple_path_planner.cpython-310.pyc
+[1.348s] running install_data
+[1.348s] running install_egg_info
+[1.351s] removing '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner-0.0.0-py3.10.egg-info' (and everything under it)
+[1.351s] Copying build/simple_path_planner/simple_path_planner.egg-info to /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner-0.0.0-py3.10.egg-info
+[1.353s] running install_scripts
+[1.379s] Installing simple_path_planner script to /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/simple_path_planner
+[1.380s] writing list of installed files to '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/install.log'
+[1.411s] Invoked command in '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner' returned '0': PYTHONPATH=/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/prefix_override:/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/simple_path_planner build --build-base /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build install --record /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/install.log --single-version-externally-managed

@@ -1,0 +1,47 @@
+[0.000000] (-) TimerEvent: {}
+[0.000227] (simple_path_planner) JobQueued: {'identifier': 'simple_path_planner', 'dependencies': OrderedDict()}
+[0.000707] (simple_path_planner) JobStarted: {'identifier': 'simple_path_planner'}
+[0.099468] (-) TimerEvent: {}
+[0.199900] (-) TimerEvent: {}
+[0.300319] (-) TimerEvent: {}
+[0.400794] (-) TimerEvent: {}
+[0.501182] (-) TimerEvent: {}
+[0.601983] (-) TimerEvent: {}
+[0.702495] (-) TimerEvent: {}
+[0.802934] (-) TimerEvent: {}
+[0.903330] (-) TimerEvent: {}
+[1.003759] (-) TimerEvent: {}
+[1.104219] (-) TimerEvent: {}
+[1.113461] (simple_path_planner) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', 'build/simple_path_planner', 'build', '--build-base', '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build', 'install', '--record', '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/install.log', '--single-version-externally-managed'], 'cwd': '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner', 'env': {'USER': 'luke', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'WT_PROFILE_ID': '{51855cb2-8cce-5362-8f54-464b92b32386}', 'MOTD_SHOWN': 'update-motd', 'HOME': '/home/luke', 'OLDPWD': '/home/luke/ros2_ws/src/simple_path_planner', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'WSL_DISTRO_NAME': 'Ubuntu', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install:/home/luke/ros2_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'luke', 'NAME': 'Luke-Laptop', 'WSL_INTEROP': '/run/WSL/353329_interop', 'PULSE_SERVER': 'unix:/mnt/wslg/PulseServer', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'TERM': 'xterm-256color', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/luke/.local/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.2/bin:/mnt/c/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.2/libnvvp:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files/dotnet/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/Program Files/NVIDIA Corporation/Nsight Compute 2023.2.2/:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/lmnew/.cargo/bin:/mnt/c/Users/lmnew/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/lmnew/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Espressif/tools/xtensa-esp32-elf-clang/esp-14.0.0-20220415-x86_64-pc-windows-msvc/bin/:/mnt/c/Users/lmnew/AppData/Local/Programs/jaguar:/mnt/c/Users/lmnew/.dotnet/tools:/snap/bin', 'WT_SESSION': 'ebc6932d-578e-4d52-a77c-bd1ff3e51c9a', 'XDG_RUNTIME_DIR': '/run/user/1000/', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'AMENT_PREFIX_PATH': '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner:/home/luke/ros2_ws/install/simple_robot_controller:/home/luke/ros2_ws/install/pidtune:/home/luke/ros2_ws/install/lkmcannode:/home/luke/ros2_ws/install/differential_drive_simulator:/opt/ros/humble', 'SHELL': '/bin/bash', 'PWD': '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner', 'XDG_DATA_DIRS': '/usr/local/share:/usr/share:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/prefix_override:/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages:/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages:/home/luke/ros2_ws/install/simple_robot_controller/lib/python3.10/site-packages:/home/luke/ros2_ws/install/pidtune/lib/python3.10/site-packages:/home/luke/ros2_ws/install/differential_drive_simulator/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'COLCON': '1', 'WSL2_GUI_APPS_ENABLED': '1', 'HOSTTYPE': 'x86_64', 'CMAKE_PREFIX_PATH': '/home/luke/ros2_ws/install/lkmcannode', 'WSLENV': 'WT_SESSION:WT_PROFILE_ID:'}, 'shell': False}
+[1.204388] (-) TimerEvent: {}
+[1.304752] (-) TimerEvent: {}
+[1.405247] (-) TimerEvent: {}
+[1.464216] (simple_path_planner) StdoutLine: {'line': b'running egg_info\n'}
+[1.466364] (simple_path_planner) StdoutLine: {'line': b'writing build/simple_path_planner/simple_path_planner.egg-info/PKG-INFO\n'}
+[1.466978] (simple_path_planner) StdoutLine: {'line': b'writing dependency_links to build/simple_path_planner/simple_path_planner.egg-info/dependency_links.txt\n'}
+[1.467321] (simple_path_planner) StdoutLine: {'line': b'writing entry points to build/simple_path_planner/simple_path_planner.egg-info/entry_points.txt\n'}
+[1.467732] (simple_path_planner) StdoutLine: {'line': b'writing requirements to build/simple_path_planner/simple_path_planner.egg-info/requires.txt\n'}
+[1.468161] (simple_path_planner) StdoutLine: {'line': b'writing top-level names to build/simple_path_planner/simple_path_planner.egg-info/top_level.txt\n'}
+[1.471043] (simple_path_planner) StdoutLine: {'line': b"reading manifest file 'build/simple_path_planner/simple_path_planner.egg-info/SOURCES.txt'\n"}
+[1.472167] (simple_path_planner) StdoutLine: {'line': b"writing manifest file 'build/simple_path_planner/simple_path_planner.egg-info/SOURCES.txt'\n"}
+[1.472723] (simple_path_planner) StdoutLine: {'line': b'running build\n'}
+[1.472865] (simple_path_planner) StdoutLine: {'line': b'running build_py\n'}
+[1.473227] (simple_path_planner) StdoutLine: {'line': b'copying simple_path_planner/simple_path_planner.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner\n'}
+[1.473369] (simple_path_planner) StdoutLine: {'line': b'running install\n'}
+[1.473456] (simple_path_planner) StderrLine: {'line': b'/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.\n'}
+[1.473713] (simple_path_planner) StderrLine: {'line': b'  warnings.warn(\n'}
+[1.474092] (simple_path_planner) StdoutLine: {'line': b'running install_lib\n'}
+[1.474554] (simple_path_planner) StdoutLine: {'line': b'copying /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner/simple_path_planner.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner\n'}
+[1.475299] (simple_path_planner) StdoutLine: {'line': b'byte-compiling /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner/simple_path_planner.py to simple_path_planner.cpython-310.pyc\n'}
+[1.476984] (simple_path_planner) StdoutLine: {'line': b'running install_data\n'}
+[1.477739] (simple_path_planner) StdoutLine: {'line': b'running install_egg_info\n'}
+[1.480033] (simple_path_planner) StdoutLine: {'line': b"removing '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[1.480421] (simple_path_planner) StdoutLine: {'line': b'Copying build/simple_path_planner/simple_path_planner.egg-info to /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner-0.0.0-py3.10.egg-info\n'}
+[1.482117] (simple_path_planner) StdoutLine: {'line': b'running install_scripts\n'}
+[1.505373] (-) TimerEvent: {}
+[1.520436] (simple_path_planner) StdoutLine: {'line': b'Installing simple_path_planner script to /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/simple_path_planner\n'}
+[1.521112] (simple_path_planner) StdoutLine: {'line': b"writing list of installed files to '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/install.log'\n"}
+[1.556427] (simple_path_planner) CommandEnded: {'returncode': 0}
+[1.605751] (-) TimerEvent: {}
+[1.633950] (simple_path_planner) JobEnded: {'identifier': 'simple_path_planner', 'rc': 0}
+[1.634823] (-) EventReactorShutdown: {}

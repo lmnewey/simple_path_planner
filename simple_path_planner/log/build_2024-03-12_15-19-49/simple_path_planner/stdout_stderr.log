@@ -1,0 +1,37 @@
+running egg_info
+creating build/simple_path_planner/simple_path_planner.egg-info
+writing build/simple_path_planner/simple_path_planner.egg-info/PKG-INFO
+writing dependency_links to build/simple_path_planner/simple_path_planner.egg-info/dependency_links.txt
+writing entry points to build/simple_path_planner/simple_path_planner.egg-info/entry_points.txt
+writing requirements to build/simple_path_planner/simple_path_planner.egg-info/requires.txt
+writing top-level names to build/simple_path_planner/simple_path_planner.egg-info/top_level.txt
+writing manifest file 'build/simple_path_planner/simple_path_planner.egg-info/SOURCES.txt'
+reading manifest file 'build/simple_path_planner/simple_path_planner.egg-info/SOURCES.txt'
+writing manifest file 'build/simple_path_planner/simple_path_planner.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build
+creating /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib
+creating /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner
+copying simple_path_planner/__init__.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner
+copying simple_path_planner/simple_path_planner.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner
+running install
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+creating /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner
+copying /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner/__init__.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner
+copying /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/build/lib/simple_path_planner/simple_path_planner.py -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner
+byte-compiling /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner/simple_path_planner.py to simple_path_planner.cpython-310.pyc
+running install_data
+creating /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/share/ament_index
+creating /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/share/ament_index/resource_index
+creating /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/share/ament_index/resource_index/packages
+copying resource/simple_path_planner -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/share/ament_index/resource_index/packages
+copying package.xml -> /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/share/simple_path_planner
+running install_egg_info
+Copying build/simple_path_planner/simple_path_planner.egg-info to /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/python3.10/site-packages/simple_path_planner-0.0.0-py3.10.egg-info
+running install_scripts
+Installing simple_path_planner script to /home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/install/simple_path_planner/lib/simple_path_planner
+writing list of installed files to '/home/luke/ros2_ws/src/simple_path_planner/simple_path_planner/build/simple_path_planner/install.log'
